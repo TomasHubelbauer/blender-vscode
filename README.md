@@ -18,7 +18,20 @@ Maybe it can be made more worthwhile, but this is here mostly for completeness.
 
 ## Using Blender as a Python module
 
-https://archive.blender.org/wiki/index.php/User:Ideasman42/BlenderAsPyModule/
+https://archive.blender.org/wiki/index.php/User:Ideasman42/BlenderAsPyModule
+
+## Executing Blender using a file watcher
+
+https://github.com/TomasHubelbauer/blender-script
+
+## Having a Blender script which loads an external file and interprets it
+
+There should be two options: run script which reads a file and executes it and
+another which is more robuts and auto-reloads the script?
+
+## `as_module` New Thing in Blender 2.80
+
+This could be interesting, whatever it is.
 
 ## To-Do
 
